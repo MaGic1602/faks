@@ -11,4 +11,8 @@ namespace ConsoleApp1
             Console.WriteLine("Novo2");
         }
     }
+
+    class NewClas {
+        private int br;
+    }
 }
